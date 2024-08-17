@@ -99,7 +99,7 @@ if ( !isset($_SESSION['tasks']) ) {
         <div class="list">
         </div>
         <div class="footer">
-            <p>Desenvolvido por @weasyzz</p>
+            <p>Desenvolvido por @wesley_santto2</p>
         </div>
     </div>    
 
