@@ -34,11 +34,11 @@ $data = $_SESSION['tasks'][$_GET['key']];
 
 
         <div class="image">
-            <img src="uploads/<?php echo $data['task_image']?>" alt="imagem tarefa"> 
+            <img src="uploads/<?php echo $data[0]['task_image']?>" alt="imagem tarefa">
         </div>
     </div>
     <div class="footer">
-        <p>Desenvolvido por @weasyzz</p>
+        <p>Desenvolvido por @wesley_santto2</p>
     </div>
 </div>
 
